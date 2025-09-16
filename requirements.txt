@@ -1,0 +1,11 @@
+streamlit
+pandas
+numpy
+torch
+PyMuPDF
+nltk
+scikit-learn
+transformers
+matplotlib
+seaborn
+memory-profiler
