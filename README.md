@@ -33,10 +33,10 @@ For reproducibility, you can download the dataset directly from Kaggle and place
 ai-job-matching-system/
 │
 ├── dataset/                # Datasets for training and testing
-│   ├── job_data.csv        # Job postings dataset
+│   ├── job_data.csv        # Folder containing Job postings dataset
 │   └── resume/             # Folder containing resumes
 │
-├── notebooks/              # Jupyter notebooks for experiments and prototyping
+├── notebooks/              # Jupyter notebooks for training
 │
 ├── src/                    # Source code for the project
 │   ├── create_admin_user.py  # Script to create admin user
